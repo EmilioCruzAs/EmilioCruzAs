@@ -1,54 +1,61 @@
 # Hi, I'm Emilio Alejandro Cruz Suárez 👋
 
-**Software Engineer / Backend Developer** based in Puebla, Mexico (Open to Remote & Relocation).
+**Backend Engineer & Distributed Systems Enthusiast**  
+📍 Puebla, Mexico • Open to Remote & Relocation
 
-> *I fell in love with software engineering at age 15. Since then, I've been a relentless self-taught builder driven by curiosity and one core obsession: designing reliable, high-performance systems that operate at real scale and empower thousands of users every day.*
-
----
-
-### 🚀 About Me & Engineering Philosophy
-
-- **Passionate & Self-Taught:** Started coding early out of pure fascination with how systems work under the hood. Over the years, that curiosity evolved into designing production-grade distributed backends, clean APIs, and event-driven architectures.
-- **Thriving on Scale:** I get genuinely energized by solving complex engineering challenges where real concurrency, data integrity, and high throughput matter to real people.
-- **Craftsmanship & Ownership:** Whether it's building an asynchronous batch pipeline or engineering a low-latency socket engine, I focus on clean architecture, strict transaction consistency (ACID), and building systems that just don't fail.
+> *I fell in love with code at age 15. Since then, I've been a relentless self-taught builder driven by one core obsession: understanding how things work under the hood and engineering resilient backend systems that thrive under real-world scale.*
 
 ---
 
-### 💼 What I've Built & What I'm Currently Working On
+### 🚀 About Me
 
-- 🛠️ **Real-Time Event-Driven Help Desk System (Personal Ownership & Impact):**  
-  One of the projects I am most proud of architecting. Built from the ground up to solve critical operational bottlenecks across **80+ branch offices** at Cooperativa Acreimex:
-  - Engineered a reactive event-driven backend utilizing **NestJS**, **Node.js**, and **WebSockets (Socket.io)** serving **1,200+ active enterprise collaborators** in real time.
-  - Eliminated operational lag with instant event delivery and push notifications, ensuring zero dropped messages under peak corporate workloads.
+I love the craft of software engineering. There's something deeply satisfying about taking a complex, high-concurrency problem, architecting a clean event-driven solution, and watching it serve thousands of users seamlessly.
 
-- ⚙️ **Financial Transaction Reconciliation Engine:**  
-  Developed automated batch ingestion and validation microservices in **C# / .NET 8** scheduled via **Quartz.NET**, processing high-volume banking reconciliations with strict fault-tolerance and zero data divergence.
-
-- 📦 **Nationwide Logistics & Document Tracking Platform:**  
-  Architected a centralized tracking platform across **80+ branches**, transitioning critical physical paperwork to verifiable digital workflows with **zero lost shipments recorded**.
-
-- 🎯 **Current Focus & Next Horizons:**  
-  Transitioning to new high-impact software engineering roles. Actively exploring advanced distributed consensus, high-throughput message brokers, and low-latency database tuning in SQL Server & PostgreSQL.
+- 🧠 **Self-Taught Mindset:** Constantly learning, experimenting, and diving into distributed systems patterns, system internals, and performance profiling.
+- 🎯 **Target Direction:** Designing and implementing high-throughput **distributed systems, event-driven architectures, and scalable backend services**.
+- 🛠️ **Engineering Standards:** Clean Architecture, strict ACID transaction consistency, and writing code that is predictable, testable, and maintainable.
 
 ---
 
-### 🛠️ Tech Stack & Core Tools
+### 💡 Highlighted Work & Impact
 
-- **Languages:** C# (.NET 8), TypeScript, JavaScript (ES6+), Python, SQL (T-SQL, PL/pgSQL), GDScript.
-- **Backend & Architecture:** ASP.NET Core, NestJS, Node.js, RESTful APIs, WebSockets (Socket.io), Batch Workloads (Quartz.NET), Event-Driven Architecture, ACID Transactions, RBAC.
-- **Databases:** Microsoft SQL Server (Stored Procedures, Query Optimization & Indexing), PostgreSQL.
-- **DevOps, Tools & Infrastructure:** Docker, Git/GitHub, Linux (Bash), VMware vSphere / ESXi, Nagios Core/XI, Postman.
-- **Frontend (Full-Stack capability):** Angular 18+, RxJS, TailwindCSS, HTML5/CSS3.
-- **AI Tooling & Workflows:** Model Context Protocol (MCP), Gemini API, Prompt Engineering for software development.
+- ⚡ **Real-Time Event-Driven Help Desk:**  
+  *One of my favorite systems I've built.* Designed and implemented a reactive backend from scratch using **NestJS**, **Node.js**, and **WebSockets (Socket.io)** serving **1,200+ enterprise users** across **80+ branches**. It replaced laggy operational bottlenecks with instant event distribution and zero message loss under peak concurrency.
+  
+- 🏦 **Automated Financial Reconciliation Engine:**  
+  Engineered fault-tolerant background microservices in **C# / .NET 8** with **Quartz.NET** for high-volume banking reconciliations, enforcing data integrity and zero divergence across financial accounts.
+
+- 🎮 **Donají – Interactive Cultural Heritage Game:**  
+  Designed and programmed a 2D cultural game in **Godot Engine** & **GDScript** using Finite State Machines (FSM) and decoupled signals, maintaining a rock-solid 60 FPS and winning the **National Bronze Medal at Infomatrix (SOLACYT)**.
 
 ---
 
-### 🏆 Honors & Competitions
+### 🛠️ Tech Stack
 
-- **Double Bronze Medalist – Infomatrix (SOLACYT) National Finals:**
-  - *Software Development:* Designed and built the 2D interactive video game *«Donají»* (Godot Engine, GDScript) using Finite State Machines and Event-Driven architecture.
-  - *Digital Media & Short Film:* Narrative and multimedia production.
-- **Finalist – Oaxaca State Informatics Olympiad:** Algorithmic problem-solving and competitive programming.
+#### Backend & Distributed Systems
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Databases & Persistence
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Languages & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+#### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -57,4 +64,3 @@
 - 💼 **LinkedIn:** [linkedin.com/in/eacrsu](https://www.linkedin.com/in/eacrsu)
 - ✉️ **Email:** [emilioalejandrocs6@gmail.com](mailto:emilioalejandrocs6@gmail.com)
 - 📱 **Phone:** +52 951 249 4976
-- 📍 **Location:** Puebla, Mexico
